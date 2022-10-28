@@ -1,2 +1,2 @@
-# CPSC 131
+# CPSC131
 ## Data Structures
